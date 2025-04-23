@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # 🐶 Python OOP Challenge: Build Your Own Digital Pet
 
-Welcome to this week's Python challenge! 🎉
+
 
 In this challenge, we’ll be creating a virtual pet using Object-Oriented Programming concepts in Python. This fun project will help us practice how to use classes, attributes, methods, and constructors.
 
