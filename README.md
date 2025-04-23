@@ -3,7 +3,7 @@
 
 Welcome to this week's Python challenge! 🎉
 
-In this challenge, you’ll be creating a virtual pet using Object-Oriented Programming concepts in Python. This fun project will help you practice how to use classes, attributes, methods, and constructors.
+In this challenge, we’ll be creating a virtual pet using Object-Oriented Programming concepts in Python. This fun project will help us practice how to use classes, attributes, methods, and constructors.
 
 ---
 
@@ -57,11 +57,11 @@ Use max() and min() to keep values between 0 and 10.
 
 Think about edge cases like trying to play when energy is 0.
 
-🏁 Submission
 
-Submission format: clone/fork this repo
 
-Bonus points for creativity (custom actions, emojis, pet types, etc.)
+
+
+
 =======
 # 🐾 OOP Digital Pet Challenge
 
